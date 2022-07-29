@@ -9,6 +9,9 @@ For the larger projects, I added pdf files which explains the code and what it d
 ### Construction of a planetary gear
 
 ### numeric
-
+- interpolation
+- numerical methods nonlinear equations
+- numerical differentation
+- numerical integration
 
 ### simulations
